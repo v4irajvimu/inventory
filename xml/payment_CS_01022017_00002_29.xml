@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Smslist>
+  <SmsAlert>
+    <indexNo>29</indexNo>
+    <regCode>smtk2345</regCode>
+    <phnNo>+945481212</phnNo>
+    <message>Puka</message>
+    <status>PENDING</status>
+    <active>TRUE</active>
+  </SmsAlert>
+</Smslist>

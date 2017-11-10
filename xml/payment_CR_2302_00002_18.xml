@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Smslist>
+  <SmsAlert>
+    <indexNo>18</indexNo>
+    <regCode>smtk2345</regCode>
+    <phnNo>+97412325648</phnNo>
+    <message>Dear Viraj Vimukthi Jayasinghe, Rs. 500.00 Successfully paid for Work Order CR_2302_00002</message>
+    <status>PENDING</status>
+    <active>TRUE</active>
+  </SmsAlert>
+</Smslist>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Smslist>
+  <SmsAlert>
+    <indexNo>3</indexNo>
+    <regCode>smtk2345</regCode>
+    <phnNo>+945481212</phnNo>
+    <message>Dear Prasad Viuthi, Your Order (CS_01022017_00002) Completed at 2017-02-26 20:48:08</message>
+    <status>PENDING</status>
+    <active>TRUE</active>
+  </SmsAlert>
+</Smslist>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Smslist>
+  <SmsAlert>
+    <indexNo>35</indexNo>
+    <regCode>smtk2345</regCode>
+    <phnNo>+94718984545</phnNo>
+    <message>Dear Prasad, Rs. 490.17 Successfully paid for Work Order CR_2602_00002</message>
+    <status>PENDING</status>
+    <active>TRUE</active>
+  </SmsAlert>
+</Smslist>

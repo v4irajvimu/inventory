@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Smslist>
+  <SmsAlert>
+    <indexNo>4</indexNo>
+    <regCode>smtk2345</regCode>
+    <phnNo>+97412325648</phnNo>
+    <message>Dear Viraj Vimukthi Jayasinghe, Your Order (CR_0602_00001) Completed at 2017-02-21 19:16:39</message>
+    <status>PENDING</status>
+    <active>TRUE</active>
+  </SmsAlert>
+</Smslist>
